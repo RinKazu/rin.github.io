@@ -43,7 +43,7 @@ nav ul {
 
 .img1 {
     padding:250px;
-    background-image: url("/image3.jpg");
+    background-image: url("image3.jpg");
     background-color: gray;
     background-repeat: no-repeat;
     background-size: cover;
